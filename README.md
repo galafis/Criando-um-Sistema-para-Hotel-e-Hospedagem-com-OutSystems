@@ -39,4 +39,4 @@ Este projeto permitiu explorar não apenas os fundamentos da plataforma OutSyste
 
 ---
 
-Para empresas ou profissionais que valorizam desenvolvedores com iniciativa, visão de produto e foco no usuário, este projeto reflete exatamente essa mentalidade.
+Feito por mim, apaixonado em tecnologias de programação inovadoras e que vieram para facilitar a vida. Para empresas ou profissionais que valorizam desenvolvedores com iniciativa, visão de produto e foco no usuário, este projeto reflete exatamente essa mentalidade.
