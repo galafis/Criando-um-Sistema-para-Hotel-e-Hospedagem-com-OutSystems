@@ -40,3 +40,23 @@ Este projeto permitiu explorar não apenas os fundamentos da plataforma OutSyste
 ---
 
 Feito por mim, apaixonado em tecnologias de programação inovadoras e que vieram para facilitar a vida. Para empresas ou profissionais que valorizam desenvolvedores com iniciativa, visão de produto e foco no usuário, este projeto reflete exatamente essa mentalidade.
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.
